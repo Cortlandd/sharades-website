@@ -1,5 +1,3 @@
-jchamet.github.io
+sharades.github.io
 =================
-
-http://jameshamet.com/
-My online business card
+Created by Cortland Walker
